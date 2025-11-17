@@ -59,4 +59,8 @@
 
 ---
 
-![final_cheatsheet](imgs/final/cheatsheet_front.png)
+# Front (Sections 1-3)
+![cheatsheet_front](imgs/final/cheatsheet_front.jpg)
+
+# Back (Sections 4-6)
+![cheatsheet_back](imgs/final/cheatsheet_back.jpg)
